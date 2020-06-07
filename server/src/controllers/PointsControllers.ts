@@ -8,9 +8,6 @@ class PointsController {
         const { city, uf } = request.query
         const items: number[] | any = request.query.items
 
-        console.log(items);
-        
-
         const points = await knex('points')
         .join('item_point', 'points.id', '=', 'item_point.point_id')
         .whereIn('item_point.item_id', items)

@@ -1,5 +1,11 @@
 Este projeto foi ensinado na 1a NLW da [Rocketset](https://rocketseat.com.br/), para vê-lo rodando em sua máquina siga as intruções
 
+
+- Fiz uma mudança na utilização do mapa, para evitar que o usuário marque um ponto por acidente tentado movimentar o mapa. Assim, eu alterei para que o usário movimente o mapa inserindo o lugar desejado ao centro do mapa.
+
+![](https://raw.githubusercontent.com/izidorio/react-ecoleta/master/mapa.gif)
+
+
 - faça o clone do projeto
 ````
 git clone https://github.com/izidorio/react-ecoleta.git
