@@ -1,4 +1,4 @@
-Este projeto foi ensinado na 1a NLW da [Rocketset](https://rocketseat.com.br/), para vê-lo rodananos em sua máquina siga as intruções
+Este projeto foi ensinado na 1a NLW da [Rocketset](https://rocketseat.com.br/), para vê-lo rodando em sua máquina siga as intruções
 
 - faça o clone do projeto
 ````
