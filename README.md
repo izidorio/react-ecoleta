@@ -1,4 +1,4 @@
-- faça o colne do projeto
+- faça o clone do projeto
 ````
 git clone https://github.com/izidorio/react-ecoleta.git
 ````
@@ -21,7 +21,7 @@ cd .. && cd server
 npm install
 
 ````
-- neste projeto o Knex está configurado para trabalhar com o Sqlite3. confirme se vc possue o sqlite instalado em sua máquina ou instale usanso o npm
+- neste projeto o Knex está configurado para trabalhar com o Sqlite3. confirme se vc possue o sqlite3 instalado em sua máquina ou instale usando o npm
 ````
 sqlite3 --version
 # se instalado deverá ter uma saída parecida com isso:
@@ -46,7 +46,7 @@ npm run knex:seed
 ````
 npm run dev
 ````
-- Execute também a SPA. Acesse o diretório wem e rode o comando:
+- Execute também a SPA. Acesse o diretório web e rode o comando:
 ````
 cd web
 nm run start
@@ -88,4 +88,5 @@ return {
 }
 ...
 
+Para as mudaças entrarem em vigor lembre de reniciar os serviços
 
